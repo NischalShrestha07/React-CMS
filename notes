@@ -1,6 +1,0 @@
-http://localhost:/5173
-localhost-> server
-5173 -> port number
-
-localhost in decimal -> 127.0.0.1:5173
-localhost in hexa ->[::1]
